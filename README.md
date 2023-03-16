@@ -15,7 +15,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="right" height="95" alt="Kim" src="https://uploaddeimagens.com.br/images/004/364/237/full/32223_CqwfASbT.png" />
+  <img align="right" height="95" src="https://i.ibb.co/C9wHWYF/Daco-4101929.png"/>
           
 ##
 
